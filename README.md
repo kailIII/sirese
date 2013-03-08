@@ -35,8 +35,12 @@ $db['default']['database'] = 'nombre de la base de datos';
 =====================================================================
 Desarrolladores:
 Carlos Mauro Chévez
+
 Dennys Alexánder González
+
 Julissa Beatriz Zelaya
+
 Luis Alexi Hernández
+
 José Alberto Ventura
 
