@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://sirese.site90.net//';
+$config['base_url']	= '';
 
 /*
 |--------------------------------------------------------------------------
